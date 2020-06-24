@@ -1,5 +1,5 @@
 # Microsoft AL application foundation modules and application add-ons for Microsoft Dynamics 365 Business Central
-Welcome to the ALAppExtension repository!
+Welcomes to the ALAppExtension repository!
 
 This repo is a platform for Microsoft and our vibrant partner channel and community to work together to develop system modules and add-on apps in the AL language and to enable the general extensibility of Microsoft Dynamics 365 Business Central.
 
